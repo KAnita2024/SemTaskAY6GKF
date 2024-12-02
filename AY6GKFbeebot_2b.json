@@ -1,0 +1,8 @@
+{
+    "botShape": "default",
+    "path": "/",
+    "mat": "Alphabet Mat",
+    "type": "Bee-Bot",
+    "commands": "rt,fd,lt,fd,fd,fd,lt,fd,fd,fd,fd,lt,fd,fd,lt,fd,fd,ps,fd,fd,rt,fd,fd,fd,rt,fd,fd,fd,fd,rt,fd,ps,fd,fd,fd,fd,rt,fd,fd,fd,fd,rt,fd,rt,fd,ps,fd,fd,fd,rt,fd,rt,fd,fd,fd,ps,rt,rt,fd,fd,fd,lt,fd,fd,lt,fd,fd,fd,ps,fd,rt,fd,fd,fd,rt,fd,fd,fd,fd,rt,fd,fd,rt,fd,ps,fd,fd,fd,rt,fd,fd,rt,fd,fd,fd,fd,ps,rt,fd,fd,fd,fd,fd,ps,rt,fd,fd,fd,fd,rt,fd,fd,fd,fd,fd,rt,fd,fd,fd,fd,rt,fd,fd,fd,fd,fd,ps,rt,fd,fd,fd,fd,rt,fd,fd,fd,rt,fd,fd,fd,fd,ps,lt,lt,fd,fd,fd,fd,lt,fd,fd,fd,lt,fd,lt,fd,ps,fd,fd,fd,fd,rt,fd,fd,fd,rt,fd,rt,fd,fd,ps,fd,fd,lt,fd,fd,fd,fd,lt,fd,fd,fd,fd,ps",
+    "visible": true
+}
